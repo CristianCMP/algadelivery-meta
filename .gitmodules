@@ -1,0 +1,9 @@
+[submodule "microservices/courier-management"]
+	path = microservices/courier-management
+	url = https://github.com/CristianCMP/algadelivery-courier-management.git
+[submodule "docs"]
+	path = docs
+	url = https://github.com/CristianCMP/algadelivery-docs.git
+[submodule "microservices/delivery-tracking"]
+	path = microservices/delivery-tracking
+	url = https://github.com/CristianCMP/algadelivery-delivery-tracking.git
