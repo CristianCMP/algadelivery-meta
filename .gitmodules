@@ -7,3 +7,6 @@
 [submodule "microservices/delivery-tracking"]
 	path = microservices/delivery-tracking
 	url = https://github.com/CristianCMP/algadelivery-delivery-tracking.git
+[submodule "microservices/service-registry"]
+	path = microservices/service-registry
+	url = https://github.com/CristianCMP/algadelivery-service-registry.git
