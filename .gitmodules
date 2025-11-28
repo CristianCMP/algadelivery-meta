@@ -10,3 +10,6 @@
 [submodule "microservices/service-registry"]
 	path = microservices/service-registry
 	url = https://github.com/CristianCMP/algadelivery-service-registry.git
+[submodule "microservices/gateway"]
+	path = microservices/gateway
+	url = https://github.com/CristianCMP/algadelivery-gateway.git
